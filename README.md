@@ -1,16 +1,11 @@
-# my_app
+# exer-6-state-management-GianSuarez
 
-A new Flutter project.
+Gian Carlo L. Suarez </br>
+2022-07754</br>
+CMSC 23 - UV4L </br>
 
-## Getting Started
+State Management App </br>
 
-This project is a starting point for a Flutter application.
+Creating a state management app with a catalog window where you pick products, a cart window to hold everything you've added, and a checkout window for paying up.</br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The challenge I encountered revolved around determining the appropriate syntax to display the required words accurately on the screen.</br>
